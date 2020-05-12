@@ -63,7 +63,7 @@ public class SimpleBot {
                 break;
             }
             System.out.println("Please, try again.");
-//            mixTest(items);
+            mixTest(items);
         }
     }
 
